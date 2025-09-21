@@ -1,0 +1,26 @@
+{
+  "id": "1193022572485427220",
+  "displayName": "Ryo",
+  "username": "ryomarketing",
+  "avatar": "/placeholder.svg?height=64&width=64",
+  "description": "Doxxed someone's full name and address, made racist remarks, attempted scamming of animators and content creators, posed as a high position in Rell Games and Headhunter, scammed using the name 'Grand', leaked the Rell Movie, and created his own Roblox Central in retaliation.",
+  "severity": "high",
+  "reportedDate": "2025-01-27",
+  "knownAlts": ["663574922731323392", "296614541809156096"],
+    "proof": {
+      "links": [
+        {
+          "url": "https://www.freedomforum.org/is-doxing-illegal/",
+          "title": "What is doxxing?"
+        },
+        {
+          "url": "https://docs.google.com/document/d/1yOZqcTqum9bMr8MkpoeSMheXowUNypJWnFisMzu8-6Q/edit?usp=sharing",
+          "title": "Actions and context"
+        },
+        {
+          "url": "https://docs.google.com/document/d/17BXYl_97rOa8XiVBIa6IzlWUrK6eIG-wi7pEVxV_ySc/edit?usp=sharing", 
+          "title": "Exploitation"
+        }
+      ]
+    }
+}
