@@ -1,0 +1,13 @@
+{
+  "id": "700513611545575455",
+  "displayName": "naclid",
+  "username": "naclid",
+  "avatar": "/placeholder.svg?height=64&width=64",
+  "description": "Blocking a client after taking upfront payment for a commission",
+  "severity": "high",
+  "reportedDate": "2025-07-02",
+  "collaborators": [],
+  "knownAlts": [],
+  "proof": {},
+  "source": "server:911667183334084608"
+}

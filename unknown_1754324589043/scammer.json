@@ -1,0 +1,13 @@
+{
+  "id": "unknown",
+  "displayName": "unknown",
+  "username": "unknown",
+  "avatar": "/placeholder.svg?height=64&width=64",
+  "description": "The server got paid $250 to post a sponsorship which almost immediately got deleted. During the discourse, it was discovered that the server had a clause in their agreement that effectively says they may delete the ad at any moment with no refund if they feel disrespected, or if they believe in any way, shape or form the advertisement is negative. They provided reasons for the ad deletion that were eventually debunked, and they refused to refund.",
+  "severity": "high",
+  "reportedDate": "2025-08-04",
+  "collaborators": [],
+  "knownAlts": [],
+  "proof": {},
+  "source": "server:911667183334084608"
+}
